@@ -8,8 +8,8 @@
 
 
 ## Code and Resources Used
-** Python Version:** 3.7
-** Libraries:** pandas, numpy, matplotlib, seaborn, plotly, efficient_apriori
+**Python Version:** 3.7
+**Libraries:** pandas, numpy, matplotlib, seaborn, plotly, efficient_apriori
 
 
 ## Exploratory Data Analysis

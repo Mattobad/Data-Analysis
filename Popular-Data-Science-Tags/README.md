@@ -15,5 +15,5 @@
 ## Exploratory Data Analysis
 Below are few graphs from the analysis.
 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/bargraph_tags.PNG "Count of top 20 Data Science tags")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/bargraph_tags_updated.PNG "Count of top 20 Data Science tags")
 ![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/pie_tags.PNG "Percentage of top 20 Data Science tags")

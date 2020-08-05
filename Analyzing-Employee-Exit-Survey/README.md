@@ -7,8 +7,8 @@
 
 
 ## Code and Resources Used
-** Python Version:** 3.7
-** Libraries:** pandas, numpy, matplotlib, seaborn
+**Python Version:** 3.7
+**Libraries:** pandas, numpy, matplotlib, seaborn
 
 ## Data Cleaning:
 - First, we removed irrelevant features for our analysis
@@ -21,8 +21,8 @@
 
 You can see few highlights from pivot table as follows:
 
-![alt text](https://github.com/Mattobad/Data-Analysis/tree/master/Analyzing-Employee-Exit-Survey/dissatisfaction_age_cat.png)
-![alt text](https://github.com/Mattobad/Data-Analysis/tree/master/Analyzing-Employee-Exit-Survey/dissatisfaction_service_cat.png)
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Analyzing-Employee-Exit-Survey/dissatisfaction_age_cat.PNG)
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Analyzing-Employee-Exit-Survey/dissatisfaction_service_cat.PNG)
 
 For more details, please follow the jupyter notebook.
 

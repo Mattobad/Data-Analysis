@@ -17,3 +17,4 @@ Below are few graphs from the analysis.
 
 ![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/bargraph_tags_updated.PNG "Count of top 20 Data Science tags")
 ![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/pie_tags.PNG "Percentage of top 20 Data Science tags")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/association_rules.PNG "Top 20 rules out of 329 sorted by lift")

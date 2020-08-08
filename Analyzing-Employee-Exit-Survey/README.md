@@ -21,8 +21,8 @@
 
 You can see few highlights from pivot table as follows:
 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Analyzing-Employee-Exit-Survey/dissatisfaction_age_cat.PNG)
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Analyzing-Employee-Exit-Survey/dissatisfaction_service_cat.PNG)
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Analyzing-Employee-Exit-Survey/imgs/dissatisfaction_age_cat.PNG)
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Analyzing-Employee-Exit-Survey/imgs/dissatisfaction_service_cat.PNG)
 
 For more details, please follow the jupyter notebook.
 

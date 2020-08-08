@@ -15,16 +15,16 @@
 ## Exploratory Data Analysis
 Below are few graphs from the analysis.
 
-**Bar graph of top 20 tags used:**
+**Scatter plot for top 10 tags in Data Science**
 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/bargraph_tags_updated.PNG "Count of top 20 Data Science tags")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/imgs/scatter_tags.PNG "Top 10 tags used vs viewed")
 <br/>
 
 **Pie-chart of top 20 tags used:**
 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/pie_tags.PNG "Percentage of top 20 Data Science tags")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/imgs/pie_tags.PNG "Percentage of top 20 Data Science tags")
 <br/>
 
 **Top 20 association rules out of 329 sorted by lift value:**
 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/association_rules.PNG "Top 20 rules out of 329 sorted by lift")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Popular-Data-Science-Tags/imgs/association_rules.PNG "Top 20 rules out of 329 sorted by lift")

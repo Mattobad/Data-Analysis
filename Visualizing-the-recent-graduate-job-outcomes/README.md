@@ -32,16 +32,16 @@ Following is some of the columns with their descriptions that we'll use in the o
 ## Data Analysis:
 
 Below are the graphs 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Visualizing the recent graduate job outcomes/imgs/MajorBySalary.PNG "Median Salary by Major Category")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Visualizing-the-recent-graduate-job-outcomes/imgs/MajorBySalary.PNG "Median Salary by Major Category")
 <br/>
 
 
 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Visualizing the recent graduate job outcomes/imgs/MedianSalaryHigher.PNG "Median Salaries higher than Highest Median Salary by Major Catgory")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Visualizing-the-recent-graduate-job-outcomes/imgs/MedianSalaryHigher.PNG "Median Salaries higher than Highest Median Salary by Major Catgory")
 <br/>
 
 
-![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Visualizing the recent graduate job outcomes/imgs/MajorZeroUnemployed.PNG "Major with Zero Unemployment rate")
+![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Visualizing-the-recent-graduate-job-outcomes/imgs/MajorZeroUnemployed.PNG "Major with Zero Unemployment rate")
 
 
 For more details, please following the jupyter notebook.

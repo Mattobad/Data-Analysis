@@ -4,3 +4,7 @@ Repo consisting of data analysis projects performed on different datasets with i
 
 1. **Analyze Employee Exit Survey**
 2. **Popular Data Science tags**
+3. **Visualizing-the-recent-graduate-job-outcomes**
+
+
+For more details, please follow the particular submodule.

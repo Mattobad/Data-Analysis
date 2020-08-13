@@ -31,7 +31,8 @@ Following is some of the columns with their descriptions that we'll use in the o
 
 ## Data Analysis:
 
-Below are the graphs 
+Below are the few graphs used for answering our questions.
+
 ![alt text](https://github.com/Mattobad/Data-Analysis/blob/master/Visualizing-the-recent-graduate-job-outcomes/imgs/MajorBySalary.PNG "Median Salary by Major Category")
 <br/>
 

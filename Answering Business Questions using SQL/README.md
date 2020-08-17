@@ -1,5 +1,5 @@
 ## Answering Business Questions using SQL
-
+In this project, we're going to practice using our SQL skills to answer business questions. For this, we'll use Chinook database, a media related data created using real data from an iTunes Library. You can find more about the database [here](https://github.com/lerocha/chinook-database).The Chinook database is provided as a SQLite database file called chinook.db.
 
 ## Code and Resources Used
 **Python Version:** 3.8

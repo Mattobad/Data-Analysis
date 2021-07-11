@@ -1,0 +1,23 @@
+site_name: Data Analysis
+site_url: https://sarbottamthapamagar.com/Data-Analysis
+
+repo_url: https://github.com/Mattobad/Data-Analysis/
+repo_name: Mattobad/Data-Analysis
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+  palette:
+    primary: black
+
+plugins:
+ - mkdocs-jupyter
+
+nav:
+ - Home: 'index.md'
+ - Answering Business Questions using SQL : 'Answering Business Questions using SQL.ipynb'
+ - Clean and Analyze Employee Exit Surveys : 'Clean-and-Analyze-Employee-Exit-Surveys.ipynb'
+ - Popular DataScience Tags: 'Popular-DataScience-Tags.ipynb'
+ - Time Series analysis on Data Science Trends: 'time-series-data-science-trends.ipynb'
+ - Visualizing the recent graduate job outcomes : 'Visualizing the recent graduate job outcomes.ipynb'

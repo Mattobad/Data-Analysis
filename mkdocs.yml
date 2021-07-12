@@ -10,9 +10,19 @@ theme:
     - navigation.instant
   palette:
     primary: black
+    
+    
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 plugins:
  - mkdocs-jupyter
+ - search
+
+edit_uri: ""
 
 nav:
  - Home: 'index.md'
